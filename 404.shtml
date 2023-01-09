@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>404</title>
+        <style>
+            body{background-image:url("http://pollboards.com/img_site/bg_info.png");}
+            p{text-align:center;}
+        </style>
+    </head>
+    <body>
+        <p><img src="http://pollboards.com/img_site/error404.png" /></p>
+    </body>
+</html>
